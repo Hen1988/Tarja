@@ -6,7 +6,7 @@ body {
   background-position:cover;
   background-size:2000px;
   font-family: arial;
-  font-size: 20px;
+  font-size: 15px;
   color: white;
  
 }
@@ -21,7 +21,7 @@ header {
 
 
 .header-link {
-			padding: 10px 20px;
+			padding: 6px 12px;
 			background-color: #333;
 			color: white;
 			text-decoration: none;
@@ -34,7 +34,7 @@ header {
 
 
 .home-link {
-			padding: 10px 20px;
+			padding: 6px 12px;
 			background-color: #333;
 			color: white;
 			text-decoration: none;
@@ -46,7 +46,7 @@ header {
 		}
 
 .home-link1 {
-			padding: 10px 20px;
+			padding: 6px 12px;
 			background-color: white;
 			color: #333;
 			text-decoration: none;
@@ -85,10 +85,11 @@ h3 {
 	
 
 .abc {
-  margin: 2px;
+  margin: 20px;
   padding: 20px;
   background-image: url('wallpaper/3.jpg');
   background-size: 1600px;
+  object-fit: cover;
 }
 
 
@@ -139,6 +140,7 @@ ul {
   font-family:Arial;
   color: black;
   -webkit-text-stroke: black;
+  margin-bottom: -20px
 } 
 
 
